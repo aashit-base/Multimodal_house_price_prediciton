@@ -112,5 +112,6 @@ The final file is the prediction file.
 *This is done to speed up the process and do training quickly.*
 
 4. Generate predictions
+
 Final predictions are saved as: **main_submission_files/24322002_final.csv**
 These are the main predictions saved in format of `id, predicted_price`.
