@@ -1,4 +1,4 @@
-readme_md: |
+
 # MULTIMODAL HOUSE PRICE PREDICTION
 
 This repository contains the code and files required to preprocess data, train a multimodal model (tabular + satellite images), and generate house price predictions. 
